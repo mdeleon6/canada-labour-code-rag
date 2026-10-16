@@ -2,7 +2,7 @@
 
 **Answer:** Get plain-language answers to questions about federal labour standards, with the exact section of the Canada Labour Code cited for each answer. In testing, Claude cited the right section for 83% of test questions and flagged both off-topic test questions as not covered.
 
-**Live app:** _(add after deploying)_
+**Live app:** https://canada-labour-code-rag.streamlit.app/
 
 ## The question
 Ask a question about federal labour standards (Canada Labour Code, Part III). The system finds the most relevant sections of the law and Claude answers using only those sections, citing the section numbers so you can check the source.
@@ -25,7 +25,7 @@ Ask a question about federal labour standards (Canada Labour Code, Part III). Th
 - Every miss came from search not finding the right section. When Claude had it, it always cited it.
 
 **Limits**
-- Everyday words like "laid off" or "fired" can miss, because the law says "terminates" and "dismissed".
+- Everyday words like "laid off" or "fired" can miss, because the law says "terminates" and "dismissed". For example 'overtime' finds overtime-pay sections, while the 48-hour maximum (s. 171) never uses that word.
 - Small test set (20 questions), so treat the numbers as a guide.
 - Law current to December 29, 2025 (last amended December 12, 2025).
 
