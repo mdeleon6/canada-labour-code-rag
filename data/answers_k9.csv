@@ -1,0 +1,325 @@
+question,expected_section,covered,answer,cited_sections,retrieved
+How much vacation am I entitled to?,184,True,"Under the Canada Labour Code (which applies only to federally regulated workplaces), how much paid vacation you get depends on how long you have worked for the same employer (s. 184):
+
+- After 1 year of employment: at least 2 weeks of vacation each year.
+- After 5 years in a row with the same employer: at least 3 weeks each year.
+- After 10 years in a row with the same employer: at least 4 weeks each year.
+
+Vacation pay (s. 184.01) is based on what you earned during the year of employment that earned you the vacation:
+- 4% of your wages if you have at least 1 year of employment.
+- 6% of your wages after 5 years in a row with the same employer.
+- 8% of your wages after 10 years in a row with the same employer.
+
+Other helpful points:
+- Your employer must let you take your vacation. It must start no later than 10 months after the end of the year of employment that earned it (s. 185).
+- Vacation is normally taken all at once. You can split it into more than one period if you ask in writing and your employer agrees in writing (s. 184.1). If you split it, you are paid a matching share of your vacation pay for each part (s. 185).
+- If a general holiday falls during your vacation, your vacation can be extended by one day for each holiday, and you also get paid for the holiday (s. 187).
+- Vacation pay counts as wages (s. 186).
+- You can interrupt your vacation to take certain leaves, such as sick leave or other leaves under the Code. You must give your employer written notice (s. 187.1).
+
+Note that these are minimums. Your employment contract or collective agreement may give you more. Some details, such as exactly when vacation pay is paid, are set out in regulations that are not included here (s. 190).
+
+This information is for informational purposes only and is not legal advice. If you need legal advice about your situation, please talk to a lawyer.",184;184.01;184.1;185;186;187;187.1;190,185;184.01;187;184;187.1;186;190;184.1;199
+How many weeks of vacation do I get after working somewhere for 6 years?,184,True,"Under the Canada Labour Code (which applies only to federally regulated workplaces), if you have worked at least five years in a row for the same employer, you are entitled to at least three weeks of paid vacation each year (s. 184). So after 6 years with the same employer, you get at least three weeks. This goes up to at least four weeks once you reach 10 years in a row with the same employer (s. 184).
+
+Your vacation pay at this stage is at least 6% of the wages you earned during the year of employment the vacation is for (s. 184.01).
+
+Your employer must let you take your vacation so that it starts no later than 10 months after the end of the year of employment you earned it in (s. 185).
+
+Note that these are minimums. Your employment contract or collective agreement may give you more. Also, if you work for a provincially regulated employer, different provincial rules apply.
+
+This is for informational purposes only and is not legal advice. If you need legal advice about your situation, please consult a lawyer.",184;184.01;185,184;184.01;230;193;187.1;179;206.5;210;185
+How is my vacation pay calculated?,184.01,True,"Under the Canada Labour Code (federally regulated workplaces only), your vacation pay is a percentage of the wages you earned during the year of employment that the vacation is for. The percentage depends on how long you have worked for the same employer (s. 184.01):
+
+- 4% of your wages for that year, if you have completed at least one year of employment.
+- 6% of your wages, if you have completed at least 5 years in a row with the same employer.
+- 8% of your wages, if you have completed at least 10 years in a row with the same employer.
+
+These percentages match the amount of vacation time you get: at least 2 weeks after 1 year, at least 3 weeks after 5 years in a row, and at least 4 weeks after 10 years in a row (s. 184).
+
+Other useful points:
+- If you take your vacation all at once, you get all of your vacation pay for it. If you split your vacation into more than one period, you get a matching share of the vacation pay for each period. For example, if you take half your vacation, you get half your vacation pay (s. 185).
+- Vacation pay is treated as wages for all purposes (s. 186).
+- If a general holiday falls during your vacation, your vacation can be extended by one day for each holiday. Your employer must also pay you your holiday pay for those days, on top of your vacation pay (s. 187).
+- If your job ends, your employer must pay you within 30 days. This includes any vacation pay still owed from past completed years, plus the same percentage (4%, 6% or 8%) of the wages you earned in the current partial year that has not been paid yet (s. 188).
+- The exact timing of when vacation pay must be paid, and special rules for seasonal or temporary workers, are set out in regulations. Those regulations are not included in the sections provided (s. 185, s. 190).
+
+This information is for general information only and is not legal advice. If you need advice about your specific situation, consider speaking with a lawyer or contacting the federal Labour Program.",184.01;184;185;186;187;188;190,185;191;186;187;184.01;169;190;184;188
+How much vacation pay am I owed if I am laid off?,188,True,"The sections provided explain how vacation pay is calculated, but they do not include the specific rules on paying out vacation pay when someone is laid off or their job ends. Here is what the provided sections do say.
+
+**How much vacation pay you earn (s. 184.01)**
+Vacation pay is a percentage of the wages you earned during the year of employment that the vacation is for:
+- **4% of your wages** as the basic amount.
+- **6% of your wages** if you have worked at least 5 years in a row for the same employer.
+- **8% of your wages** if you have worked at least 10 years in a row for the same employer.
+
+For example, if you earned $50,000 in that year and have worked there for 6 years in a row, your vacation pay would be 6% of $50,000, or $3,000.
+
+**Vacation pay counts as wages (s. 186)**
+The law treats vacation pay as wages for all purposes. This means it is money your employer owes you, just like your regular pay.
+
+**Layoffs and timing of payment (s. 190)**
+The government can make regulations that cover:
+- when vacation pay must be paid (s. 190(c)), and
+- how vacation pay is handled when employment temporarily stops, such as a temporary layoff (s. 190(g)).
+
+Those regulations, and the specific section on vacation pay when employment ends, were not among the sections provided. So I cannot tell you exactly when your employer must pay you, or how unused vacation pay for a partial year is handled after a layoff. You can check the Canada Labour Standards Regulations, contact the Labour Program (Employment and Social Development Canada), or speak with a lawyer.
+
+**Unfair dismissal complaints (s. 242(3.1))**
+If you were laid off because there was not enough work, or because your job function was eliminated, you cannot make an unjust dismissal complaint to the Board.
+
+This applies only to federally regulated workplaces. It is for informational purposes only and is not legal advice. If you need legal advice about your situation, please consult a lawyer.",184.01;186;190;242,185;251.001;242;193;186;187;184.01;190;174
+What is the most hours I can be made to work in a week?,171,True,"Under the Canada Labour Code (Part III), which applies to federally regulated workplaces, the general rule is that you cannot work more than 48 hours in a week in total. A lower maximum can be set by regulation for some workplaces (s. 171(1)).
+
+How this fits with normal hours:
+- Your standard hours are 8 hours a day and 40 hours a week (s. 169(1)). Hours over the standard are overtime (s. 166). Your employer can have you work past 40 hours, but the total generally cannot go over 48 hours in a week (s. 171(1)).
+- A 'week' means midnight Saturday to midnight the following Saturday (s. 166).
+- You must get at least one full day of rest each week. Where practical, that should be Sunday (s. 173).
+
+When more than 48 hours can be allowed:
+1. Averaging: In some workplaces where hours are naturally irregular, hours can be averaged over two or more weeks. Some weeks can then be over 48 as long as the average stays within the limit (s. 169(2), s. 171(2)).
+2. Agreed schedules: Your employer can set up a schedule with more than 48 hours in some weeks if the average over two or more weeks is still no more than 48 hours a week, and it is approved (s. 172):
+   - If you are in a union, the employer and the union must agree in writing (s. 172(1)).
+   - If you are not in a union, you must approve it in writing if it is just your schedule. If it covers a group, at least 70% of the affected employees must approve it (s. 172(2)). The employer must usually post a notice at least 30 days before the schedule takes effect (s. 172(3)).
+3. Government permit: The Head (the government official responsible for this part of the law) can give your employer a written permit to go over the maximum. This is only allowed in exceptional circumstances. The employer must have posted notice of the application for at least 30 days and told the union, if there is one (s. 176).
+4. Emergencies: The maximum can be exceeded only as much as needed to keep the workplace from being seriously disrupted. This covers cases like accidents, urgent repairs to machinery or equipment, or other unforeseen events. The employer must then report it in writing to the Head, and to the union if there is one (s. 177).
+
+In short, 48 hours a week is the usual limit. Your employer can only go beyond it through averaging, an approved schedule, a government permit or a real emergency.
+
+This information is for informational purposes only and is not legal advice. It applies only to federally regulated workplaces, not to provincial or territorial labour standards. If you need advice about your own situation, consider speaking with a lawyer.",166;169;171;172;173;176;177,171;169;173;172;170;253.1;177;166;176
+How many hours are in a standard work week?,169,True,"Under the Canada Labour Code (Part III), which applies to federally regulated workplaces, the standard work week is 40 hours. Standard hours are also capped at 8 hours in a day. In general, an employer cannot make or let you work more than 8 hours in a day or 40 hours in a week as standard hours (s. 169(1)). Any hours worked beyond these standard hours count as overtime (s. 166).
+
+Some exceptions to know about:
+- Averaging: If the nature of the work needs irregular hours, the hours can be averaged over two or more weeks, following the rules in the regulations (s. 169(2)). If a union agrees to this in writing, the averaging can last as long as that agreement. Without a written union agreement, it can last no longer than three years (s. 169(2.1)).
+- Modified schedules: An employer can set up a schedule with longer days, as long as the hours average no more than 40 a week over two or more weeks. Who must approve it depends on your situation (s. 170):
+  - If you are unionized, the union must agree in writing.
+  - If only your own schedule is changing and you are not unionized, you must approve it in writing.
+  - If several non-unionized employees are affected, at least 70% of them must approve it.
+  - For non-union employees, the employer must generally post a notice at least 30 days before the change takes effect.
+- Weeks with general holidays: In a week with a paid general holiday, the standard hours for that week are reduced by one standard day for each holiday (s. 169(3)).
+- Maximum hours: You can work more than the standard hours, but generally the total cannot go over 48 hours in a week, except in certain situations allowed by the Code (s. 171(1)).
+
+This is for informational purposes only and is not legal advice. If you need legal advice about your situation, consider speaking with a lawyer.",169;166;170;171,169;171;170;166;173;172;177;176;196
+How many hours of rest am I entitled to between shifts?,169.2,True,"Under the federal rules, you have the right to a rest period of at least 8 hours in a row between your work periods or shifts (s. 169.2(1)).
+
+There is one exception. Your employer can ask you to work extra hours that cut your rest below 8 hours, but only if your work is needed to deal with a situation the employer could not reasonably have seen coming, and that situation creates (or could be expected to create) an imminent or serious:
+- threat to anyone's life, health or safety;
+- threat of damage to or loss of property; or
+- threat of serious disruption to the normal operations of the workplace (s. 169.2(2)).
+
+Also good to know:
+- Separate from the rest between shifts, your hours must be scheduled so you get at least one full day of rest each week. Where practical, that day should normally be Sunday (s. 173).
+- The federal government can make regulations about these rest periods, including defining what counts as a ""shift"" or ""work period"" (s. 175(1)(b.1)). Those regulations are not included in the sections provided here, so they may add details.
+
+These rules apply only to federally regulated workplaces, such as banks, airlines, telecommunications and interprovincial transportation. If you work in a provincially regulated workplace, your province's or territory's employment standards apply instead.
+
+This information is for general information only and is not legal advice. If you need advice about your own situation, consider speaking with a lawyer or contacting the Labour Program.",169.2;173;175,169.2;173;264;166;238.1;231;175;251;214
+How much time off do I get between two shifts?,169.2,True,"Under the Canada Labour Code (which applies to federally regulated workplaces), you have the right to a rest period of at least 8 hours in a row between the end of one shift and the start of the next (s. 169.2(1)).
+
+There is one exception. Your employer can ask you to work extra hours that leave you with less than 8 hours of rest, but only when the work is needed to deal with a situation the employer could not reasonably have seen coming, and that poses (or could reasonably be expected to pose) an immediate or serious:
+- threat to someone's life, health or safety;
+- threat of damage to or loss of property; or
+- threat of serious disruption to the normal operation of the workplace (s. 169.2(2)).
+
+Outside of these emergency-type situations, your employer must give you at least 8 hours in a row off between shifts.
+
+Please note: this is for informational purposes only and is not legal advice. This applies only to federally regulated workplaces, not provincial or territorial ones. If you need legal advice about your situation, consider speaking with a lawyer.",169.2,169.2;238.1;174;216;231;264;235;193;169
+"My employer is refusing to pay me overtime, what can I do?",174,True,"This is for general information only and is not legal advice. Here is what the sections provided say about unpaid overtime in federally regulated workplaces.
+
+1. You have a right to overtime pay. Overtime means any hours you work beyond your standard hours of work (s. 166). If your employer requires or allows you to work overtime, you must get either:
+- at least 1.5 times your regular pay for those hours, or
+- at least 1.5 hours of paid time off for each overtime hour (s. 174(1)).
+
+Paid time off instead of money is only allowed if you asked for it and you and your employer signed a written agreement (s. 174(2)(a)).
+
+2. Banked time off has deadlines. Time off must be taken within 3 months after the end of the pay period when you worked the overtime. That period can be longer if your collective agreement or a written agreement says so. Without a collective agreement, it can be no more than 12 months (s. 174(2)(b) and (3)).
+- If you don't use the time off by then, your employer must pay you for it at 1.5 times your regular rate within 30 days (s. 174(4)).
+- If you leave your job with banked time unused, your employer must pay it out at 1.5 times your rate within 30 days after your last day (s. 174(5)).
+
+3. Your employer has payment deadlines. Wages must be paid on your regular payday. Any amount owed to you under these rules must be paid within 30 days of when you became entitled to it (s. 247).
+
+4. What you can do:
+- Gather proof. Keep your schedules, timesheets, pay stubs and any written overtime agreement. These help show the hours you worked and what you were paid.
+- Make a complaint. The law refers to complaints by employees about unpaid wages or other amounts owed to them (s. 251.04). The sections provided do not explain how to file one. You can contact the federal Labour Program (Employment and Social Development Canada) for those steps.
+- Settle in writing. If you and your employer reach a written settlement, your employer can pay you directly or pay the Head, who must then pass the money to you without delay. If your employer pays the settlement, they cannot be prosecuted for that unpaid amount without the Minister's written consent (s. 251.04).
+- Prosecution is possible. If your employer is convicted of an offence for not paying overtime, the court must order them to pay you what you are owed (s. 258(1)). If the employer did not keep accurate records, the court will assume you worked the maximum weekly hours allowed and are owed the full weekly wage for them (s. 258(3)).
+- Related businesses can be jointly responsible. If your employer runs related businesses with other employers under common control, the Minister may treat them as one employer. All of them can then be responsible for unpaid overtime (s. 255).
+
+5. Refusing overtime. Separately, you may refuse overtime in some cases to take care of family responsibilities. You must first take reasonable steps to arrange other care, and the right does not apply in certain emergencies. Your employer cannot punish you for a valid refusal (s. 174.1).
+
+If your situation is complicated, consider talking to a lawyer, your union (if you have one), or the federal Labour Program.",166;174;174.1;247;251.04;255;258,174;174.1;258;196;255;177.1;166;251.04;247
+What rate am I paid for overtime?,174,True,"Under the Canada Labour Code (Part III), which applies to federally regulated workplaces, when you are required or allowed to work overtime, you must get at least one and a half times your regular rate of pay for each overtime hour (often called ""time and a half"") (s. 174(1)(a)). This is subject to any special regulations that may apply to certain types of work (s. 174(1)).
+
+Instead of overtime pay, you can get time off with pay, but only if you ask for it and you and your employer agree in writing. In that case, you get at least one and a half hours of paid time off for every hour of overtime you work (s. 174(1)(b), s. 174(2)(a)).
+
+Some rules apply to this time off:
+- You must normally take it within 3 months after the end of the pay period in which you worked the overtime. A longer period can be set in your collective agreement or, if you are not unionized, in a written agreement with your employer. Without a collective agreement, that longer period cannot be more than 12 months (s. 174(2)(b), s. 174(3)).
+- If you don't use all of the time off within the allowed period, your employer must pay you for the unused overtime at least one and a half times the regular rate you earned on the day you worked it. This payment is due within 30 days after the period ends (s. 174(4)).
+- If your job ends before you use the time off, your employer must pay you for the unused overtime at the same time-and-a-half rate within 30 days after your last day of work (s. 174(5)).
+
+If you work on a general holiday, a separate rule applies. You get your holiday pay plus at least one and a half times your regular rate for the hours you work that day (s. 197(1)).
+
+This information is for general purposes only and is not legal advice. It applies only to federally regulated workplaces, not provincial or territorial ones. If you need advice about your own situation, consider speaking with a lawyer.",174;197,174;178;196;174.1;197;264;178.1;258;231
+How much notice am I entitled to if my employer is terminating my employment?,230,True,"Under the Canada Labour Code (for federally regulated workplaces), the amount of notice depends on how long you have worked continuously for your employer (s. 230(1.1)):
+
+- Less than 3 months: the law does not set a notice period for you.
+- At least 3 months: 2 weeks
+- At least 3 years: 3 weeks
+- At least 4 years: 4 weeks
+- At least 5 years: 5 weeks
+- At least 6 years: 6 weeks
+- At least 7 years: 7 weeks
+- At least 8 years: 8 weeks (this is the most the law requires)
+
+How your employer can give it (s. 230(1)):
+- Written notice of your last day, given at least the required number of weeks ahead; or
+- Pay instead of notice, at your regular rate for your regular hours, for the required number of weeks; or
+- A mix of the two, as long as the total adds up to the required number of weeks.
+
+Other points:
+- You are owed this notice or pay even if you can also file a complaint about the termination (s. 230(1.01)).
+- A layoff is usually treated as a termination for these rules (s. 230(3)).
+- Your employer must give you a written statement of your vacation pay, wages, severance pay and other benefits owed. If you get working notice, it must come at least 2 weeks before your last day (or on the day you get notice, if the notice is shorter). If you get pay instead of notice, it must come no later than your last day (s. 230(2.2)).
+- If your position is cut and a collective agreement lets you bump another employee based on seniority, your employer must also give written notice to you and your union (s. 230(2)). If you are the one bumped and lose your job, you still get notice or pay instead (s. 230(2.1)).
+- If you keep working more than 2 weeks past the date in your notice, your employer must give you new notice before ending your job, unless you agree in writing or you are fired for just cause (s. 232).
+- If 50 or more employees at one workplace are terminated within 4 weeks, the employer must also give the government 16 weeks' written notice. This is in addition to your individual notice (s. 212).
+
+This information is for informational purposes only and is not legal advice. If you need advice about your own situation, consider speaking with a lawyer.",230;232;212,230;210;207.3;212;210.1;209;232;207;210.2
+"If I get let go, how many weeks of warning do I get?",230,True,"Under the Canada Labour Code (federally regulated workplaces only), if your employer ends your job, they must give you either written notice ahead of time, pay instead of notice (at your regular rate for your regular hours), or a mix of both that adds up to the required number of weeks (s. 230(1)). How many weeks depends on how long you have worked there without a break (s. 230(1.1)):
+
+- At least 3 months: 2 weeks
+- At least 3 years: 3 weeks
+- At least 4 years: 4 weeks
+- At least 5 years: 5 weeks
+- At least 6 years: 6 weeks
+- At least 7 years: 7 weeks
+- At least 8 years: 8 weeks (this is the most required)
+
+If you have worked there less than 3 months, these sections do not require notice.
+
+Other points:
+- Your employer must give you this notice or pay even if you also have other ways to challenge the firing (s. 230(1.01)).
+- Being laid off generally counts as being let go for these rules, unless the regulations say otherwise (s. 230(3)).
+- Your employer must also give you a written statement listing your vacation pay, wages, severance pay and other benefits owed. If you get notice, it must come at least 2 weeks before your last day (or on the day you get notice, if the notice is shorter than 2 weeks). If you get pay instead of notice, it must come no later than your last day (s. 230(2.2)).
+- If you are in a unionized workplace where your job becomes redundant and you can bump another worker based on seniority, the employer must give the same number of weeks' written notice to you and your union. If you are bumped and lose your job, you still get notice or pay instead (s. 230(2) and (2.1)).
+
+This applies only to federally regulated workplaces, not to provincial or territorial rules. This information is for general purposes only and is not legal advice. If you need advice about your own situation, consider speaking with a lawyer.",230,206;230;184;207.3;206.2;210;206.4;216;247.8
+Can I be fired without notice if it is for just cause?,229.1,True,"Yes. Based on the sections provided, if you are dismissed for ""just cause"" (a serious, valid reason related to your conduct), the termination notice rules in this part of the Code do not apply to you (s. 229.1). In other words, your employer does not have to give you the written notice of termination (or pay instead of notice) that is normally required.
+
+Being fired for just cause also affects severance pay. Normally, an employee with at least 12 months of continuous employment is owed severance pay when their job is ended. That pay is not owed when the firing is for just cause (s. 235(1)).
+
+The just cause exception also appears in the rule on notice that runs out. If you were given notice but kept working for more than two weeks after the end date in that notice, your employer usually has to give you new notice before ending your job. The one exception is a firing for just cause (s. 232).
+
+You and your employer may disagree about whether there really was just cause. If you file a complaint about unpaid wages or other amounts, the Head (the government official who handles these complaints) can decide whether you were actually dismissed for just cause. If the Head finds you were not, they can work out what you are owed, such as notice pay or severance pay (s. 251(1) and (1.1)).
+
+The sections provided do not define what counts as ""just cause."" Whether your specific situation qualifies would depend on the facts.
+
+This information is for informational purposes only and is not legal advice. It applies only to federally regulated workplaces in Canada. If you need advice about your own situation, consider speaking with a lawyer.",229.1;232;235;251,232;229.1;251;235;253;248;247.97;227;251.04
+How do I calculate severance pay if I have been laid off?,235,False,"The sections I was given do not explain how to calculate severance pay, so I can't tell you the formula. The rule that sets out how severance pay is worked out (including how many days' pay you get for each year of work and whether a lay-off counts as a termination) is not in the text I have, and I don't want to guess.
+
+To get an accurate answer, you can:
+- Look up the severance pay rules in the full Canada Labour Code, Part III, on the Government of Canada's Justice Laws website.
+- Contact the federal Labour Program (Employment and Social Development Canada), which handles questions about federal workplace standards.
+- Ask your employer or union (if you have one) for a written breakdown of what you are owed.
+
+These rules apply only to federally regulated workplaces, such as banks, airlines, telecommunications companies and interprovincial trucking. If you work for a provincially regulated employer, your province's or territory's employment standards apply instead.
+
+This is for informational purposes only and is not legal advice. If you need legal advice about your situation, please speak with a lawyer.",,242;236;174;213;189;238;193;258;239.1
+Am I entitled to severance pay if I am laid off in my first few months?,235,True,"Generally, no. Under the Canada Labour Code, you only get severance pay if you have worked for your employer for at least 12 months in a row without a break (s. 235(1)). If you are laid off in your first few months, you would not have reached that 12-month mark, so the severance pay rules would not apply to you.
+
+Some extra points:
+
+- **A layoff usually counts as a termination.** For severance pay purposes, being laid off is normally treated the same as being let go, unless the regulations say otherwise (s. 235(2)(a)). The government can make regulations listing situations where a layoff does not count as a termination (s. 236(a)).
+
+- **How much severance pay is, once you qualify.** After 12 months, an employer who ends your job (except when firing you for just cause) must pay the greater of:
+  - 2 days' wages for each full year you worked, or
+  - 5 days' wages (s. 235(1)).
+
+- **Time with a previous employer may count.** If the business you work for was sold, merged, leased or transferred, your time with the old employer may be added to your time with the new one. The same can happen if a new employer took over the work through a contract retendering process. This could help you reach the 12 months (s. 189(1), (1.1)). However:
+  - this does not apply if there was a gap of more than 13 weeks before you started with the new employer (s. 189(1.2)), and
+  - the gap itself does not count toward your time (s. 189(1.4)).
+
+- **Some absences may not break your employment.** The government can make regulations listing absences that do not break your continuous employment (s. 236(d)).
+
+These rules apply only to federally regulated workplaces. They do not cover provincial or territorial employment standards.
+
+This is for informational purposes only and is not legal advice. If you need advice about your own situation, consider speaking with a lawyer.",235;236;189,189;174;236;242;185;206.6;197;213;235
+I think I was fired unfairly. Can I file a complaint?,240,True,"Yes, you may be able to file a complaint, but there are some conditions.
+
+Who can file an unjust dismissal complaint (s. 240):
+- You must have worked for the same employer for at least 12 months in a row without a break.
+- You must NOT be part of a group of employees covered by a collective agreement (for example, a unionized workplace with a union contract).
+
+How and when to file:
+- The complaint must be made in writing to the Head (the federal official in charge of labour standards complaints) (s. 240(1)).
+- You must file within 90 days of the date you were fired (s. 240(2)).
+- The Head can give you more time in limited cases. One example is if you filed on time but with the wrong government official, and you honestly believed that official could handle it. The other is in situations set out in the regulations (s. 240(3)).
+- You generally cannot file this complaint if you already filed a complaint based on mostly the same facts under certain other complaint processes, unless you withdrew that other complaint (s. 240(1.1)).
+- Following your employer's rules on termination notice or severance pay does not take away your right to complain. The Board can still decide the firing was unjust and can even order you to be reinstated (s. 240(1.01)).
+
+Asking for the reasons you were fired:
+- You (or the Head) can ask your employer in writing to explain why you were fired.
+- Your employer must give you a written statement of the reasons within 15 days of the request (s. 241(1)).
+
+What happens after you file:
+- The Head will first try to help you and your employer settle the complaint (s. 241(2)).
+- If it is not settled within a reasonable time, you can ask in writing for your complaint to be sent to the Board (s. 241(3)).
+- Respond to any letters from the Head. If you don't reply, the Head can give you a written notice with a deadline (at least 30 days) to ask for the complaint to be sent to the Board. If you miss that deadline, your complaint may be treated as withdrawn (s. 241(4) and (5)).
+- The Board can reject a complaint for some reasons. These include when it is outside the Board's authority, made in bad faith, already settled in writing, better handled another way, or already dealt with by a court or tribunal (s. 241.2).
+
+If you don't meet the 12-month rule or you are unionized:
+- You may still be able to file a different kind of complaint. Any employee can file a written complaint if they believe the employer broke the labour standards rules, for example by not paying wages or other amounts owed. This complaint generally must be made within 6 months (s. 251.01). However, a complaint is not allowed if the disagreement must be settled only under a collective agreement (s. 251.01(5)). A unionized employee should check with their union about the grievance process.
+
+This applies only to federally regulated workplaces, not provincial or territorial ones. This information is for informational purposes only and is not legal advice. If you need legal advice about your situation, consider speaking with a lawyer.",240;241;241.2;251.01,251.01;251.1;182;240;241;241.2;246.3;251.05;247.99
+How long after being laid off do I have to file a complaint about unpaid wages?,251.01,True,"For federally regulated workplaces, you have **six months** to file a written complaint about unpaid wages. The clock starts on the last day your employer was supposed to pay you those wages or other amounts (s. 251.01(2)(a)). The six months does not start on the day you were laid off. It starts on the day the money was due.
+
+**Where to file:** You make the complaint in writing to the Head, the official in charge of handling these complaints (s. 251.01(1)).
+
+**Getting more time:** The Head can extend the six months in some cases (s. 251.01(3)). For example, this can happen if you complained on time to a government official who you believed could handle it but who could not. It can also happen in other situations set out in the regulations.
+
+**How far back you can recover:** If your complaint is accepted, a payment order can cover wages owed for up to 24 months before the day you filed. If your job ended before you filed, it covers up to 24 months before your job ended (s. 251.1(1.1)(a)). The 24 months can be longer if the Head gave you extra time to file.
+
+**If you made another complaint:** Normally you cannot file this complaint if you already made another complaint based on mostly the same facts. That includes an unjust dismissal complaint or a reprisal complaint. However, you can still file a complaint that is only about unpaid wages or other money owed to you. It will be put on hold until the other complaint is withdrawn or settled (s. 251.01(3.1) and (4)).
+
+The safest approach is to file as soon as possible and well within six months of the date your wages were due.
+
+*This is for informational purposes only and is not legal advice. It applies only to federally regulated workplaces under Part III of the Canada Labour Code, not provincial or territorial laws. If you need legal advice, please talk to a lawyer.*",251.01;251.1,182;242;246.1;239.3;251.01;239.2;251.1;260;181.2
+How much notice do I need to give my employer if I want to quit?,none,False,"The sections of the Canada Labour Code, Part III provided here do not say how much notice an employee must give when they quit their job. The sections provided only cover other situations, such as how much notice an employer must give when ending someone's job, how much notice employees must give before taking certain leaves, and notice for shift changes. None of them sets a notice period for an employee who resigns. Because of this, I can't give you an answer based on these sections. You may want to check your employment contract or collective agreement (if you have one), as these may set out a notice period for quitting. You could also contact the Labour Program at Employment and Social Development Canada for guidance. This information is for informational purposes only and is not legal advice. If you need legal advice about your situation, please speak with a lawyer.",,213;205.2;230;207;247.6;212;251.11;251.101;173.1
+How do I file a complaint with the Ministry of Labour?,none,True,"This is for information only and is not legal advice.
+
+First, a note: ""Ministry of Labour"" usually refers to a provincial government office. The sections below only apply to federally regulated workplaces, such as banks, airlines, telecommunications, interprovincial trucking and railways. If you work in a provincially regulated workplace, these rules do not apply to you, and you would need to contact your province's labour office instead.
+
+If you work in a federally regulated workplace, here is what the Canada Labour Code says about making a complaint:
+
+1. **Who you complain to:** The complaint goes to the ""Head,"" the federal official in charge of enforcing these labour standards (s. 251.01(1)).
+
+2. **What you can complain about:** You can complain if you believe your employer broke a rule in Part III of the Code, its regulations, or an order (s. 251.01(1)).
+
+3. **How to complain:** Your complaint must be in writing (s. 251.01(1)).
+
+4. **Deadline:** You generally have 6 months to file.
+   - For unpaid wages or other money owed, the 6 months start from the last day your employer was supposed to pay you.
+   - For any other complaint, the 6 months start from the day the problem happened (s. 251.01(2)).
+
+5. **Extensions:** The Head may extend the deadline in some cases. One example is if you complained on time to a government official who you believed could handle it but who actually had no authority to deal with it (s. 251.01(3)).
+
+6. **Some limits:**
+   - You usually cannot make this complaint if you already made a complaint based on mostly the same facts under certain other parts of the Code, such as an unjust dismissal complaint, unless you withdrew it.
+   - A complaint that is only about unpaid wages or other money owed can still be filed. However, it will be put on hold until the other complaint is withdrawn or resolved (s. 251.01(3.1) and (4)).
+   - If your issue must be settled only through your collective agreement (union contract), you cannot use this complaint process (s. 251.01(5)).
+
+The sections provided do not explain the practical steps, such as which form to use or where to send it. For those details, check the federal government's labour program website. If you need legal advice about your situation, consider speaking with a lawyer.",251.01,182;251.01;266;247.991;251.14;251.15;244;246.6;246.3
+How do I negotiate a raise or promotion with my employer?,none,False,"The sections of the Canada Labour Code, Part III provided here don't cover how to negotiate a raise or a promotion with your employer, so I can't give you guidance on that from the law.
+
+A few related points in these sections might still be useful:
+
+- **Promotions during leave:** If you are on a leave of absence, you can ask your employer in writing to tell you about job, promotion or training openings you qualify for. Your employer must then let you know about them in writing (s. 209, s. 210.1). This also applies during medical leave (s. 239(5)).
+- **Medical leave can't count against you:** Your employer can't hold the fact that you took, or plan to take, medical leave against you when deciding whether to promote or train you (s. 239(6)).
+- **Protection from payback (reprisal):** Your employer also can't use the fact that you made a complaint or used your rights under this law against you in promotion or training decisions. If you believe this has happened, you can file a written complaint with the Board within 90 days (s. 246.1).
+
+For tips on negotiating a raise or promotion itself, you may want to check:
+- your employment contract,
+- your collective agreement, if you have a union, or
+- an employment advisor or career counsellor.
+
+This information is for general informational purposes only and is not legal advice. If you need legal advice, please speak with a lawyer.",209;210.1;239;246.1,210.1;209;246.1;239;189;181;247.8;207.1;212
